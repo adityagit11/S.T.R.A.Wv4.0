@@ -1,0 +1,25 @@
+flight
+giraffe
+television
+computer
+alaska
+win the match
+speech recognition
+credit score
+home loan
+car loan
+used car loan
+personal loan
+short term loan
+credit card
+debit card
+mutual fund
+life insurance
+car insurance
+two wheeler insurance
+health insurance
+savings account
+fixed deposit
+terminate program
+yes please confirm command
+no do not confirm

@@ -1,0 +1,10 @@
+C:\Workstation\Ventures\S.T.R.A.Wv4.0\StrawSolution\STRAWv4.0Test\bin\Debug\STRAWv4.0Test.exe.config
+C:\Workstation\Ventures\S.T.R.A.Wv4.0\StrawSolution\STRAWv4.0Test\bin\Debug\STRAWv4.0Test.exe
+C:\Workstation\Ventures\S.T.R.A.Wv4.0\StrawSolution\STRAWv4.0Test\bin\Debug\STRAWv4.0Test.pdb
+C:\Workstation\Ventures\S.T.R.A.Wv4.0\StrawSolution\STRAWv4.0Test\obj\Debug\STRAWv4.0Test.csprojAssemblyReference.cache
+C:\Workstation\Ventures\S.T.R.A.Wv4.0\StrawSolution\STRAWv4.0Test\obj\Debug\STRAWv4.0Test.csproj.CoreCompileInputs.cache
+C:\Workstation\Ventures\S.T.R.A.Wv4.0\StrawSolution\STRAWv4.0Test\obj\Debug\STRAWv4.0Test.exe
+C:\Workstation\Ventures\S.T.R.A.Wv4.0\StrawSolution\STRAWv4.0Test\obj\Debug\STRAWv4.0Test.pdb
+C:\Workstation\Ventures\S.T.R.A.Wv4.0\StrawSolution\STRAWv4.0Test\bin\Debug\WebDriver.dll
+C:\Workstation\Ventures\S.T.R.A.Wv4.0\StrawSolution\STRAWv4.0Test\bin\Debug\WebDriver.xml
+C:\Workstation\Ventures\S.T.R.A.Wv4.0\StrawSolution\STRAWv4.0Test\obj\Debug\STRAWv4.0Test.csproj.CopyComplete

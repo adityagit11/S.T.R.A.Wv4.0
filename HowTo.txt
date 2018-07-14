@@ -1,0 +1,7 @@
+Solution Name: StrawSolution
+	Project Name: SpeechToTextEngine
+		Class Name: RecognitionEngine
+			Class Implemented: 
+	Project Name: TextToSpeechEngine
+		Class Name: SynthesizerEngine
+			Class Implemented: 
